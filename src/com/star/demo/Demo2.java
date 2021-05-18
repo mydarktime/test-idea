@@ -9,5 +9,6 @@ package com.star.demo;
 public class Demo2 {
     public static void main(String[] args) {
         System.out.println("这是测试在idea上执行push");
+        // 这里测试idea从github拉取到本地库
     }
 }
